@@ -13,7 +13,7 @@ var metamaskStream = new LocalMessageDuplexStream({
 })
 
 // compose the inpage provider
-window.ETHEREUM_PROVIDER = new MetamaskInpageProvider(metamaskStream)
+window.ethereum = new MetamaskInpageProvider(metamaskStream)
 log.debug('MetaMask - exposed Ethereum provider API')
 
 // make sure we aren't affected by overlapping namespaces
