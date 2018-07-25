@@ -21,10 +21,10 @@
     "message": "Web3 APIリクエスト"
   },
   "reviewProviderRequest": {
-    "message": "このweb3 APIリクエストを確認してください。"
+    "message": "このEthereum APIリクエストを確認してください。"
   },
   "providerRequestInfo": {
-    "message": "下記のドメインは、Ethereumブロックチェーンとやり取りできるようにweb3 APIへのアクセスをリクエストしようとしています。 Web3アクセスを承認する前に、正しいサイトにいることを常に確認してください。"
+    "message": "下記のドメインは、Ethereumブロックチェーンとやり取りできるようにEthereum APIへのアクセスをリクエストしようとしています。 Web3アクセスを承認する前に、正しいサイトにいることを常に確認してください。"
   },
   "accept": {
     "message": "承認"

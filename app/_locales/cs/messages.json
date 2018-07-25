@@ -18,13 +18,13 @@
     "message": "Odmítnout"
   },
   "providerAPIRequest": {
-    "message": "Požadavek API Web3"
+    "message": "Požadavek API Ethereum"
   },
   "reviewProviderRequest": {
-    "message": "Přečtěte si prosím tuto žádost API web3."
+    "message": "Přečtěte si prosím tuto žádost API Ethereum."
   },
   "providerRequestInfo": {
-    "message": "Níže uvedená doména se pokouší požádat o přístup k API web3, aby mohla komunikovat s blokádou Ethereum. Před schválením přístupu web3 vždy zkontrolujte, zda jste na správném místě."
+    "message": "Níže uvedená doména se pokouší požádat o přístup k API Ethereum, aby mohla komunikovat s blokádou Ethereum. Před schválením přístupu Ethereum vždy zkontrolujte, zda jste na správném místě."
   },
   "accept": {
     "message": "Přijmout"

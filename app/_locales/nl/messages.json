@@ -21,10 +21,10 @@
     "message": "Web3 API-aanvraag"
   },
   "reviewProviderRequest": {
-    "message": "Bekijk deze web3 API-aanvraag."
+    "message": "Bekijk deze Ethereum API-aanvraag."
   },
   "providerRequestInfo": {
-    "message": "Het onderstaande domein probeert toegang tot de web3 API te vragen zodat deze kan communiceren met de Ethereum-blockchain. Controleer altijd eerst of u op de juiste site bent voordat u web3-toegang goedkeurt."
+    "message": "Het onderstaande domein probeert toegang tot de Ethereum API te vragen zodat deze kan communiceren met de Ethereum-blockchain. Controleer altijd eerst of u op de juiste site bent voordat u Ethereum-toegang goedkeurt."
   },
   "accept": {
     "message": "Aanvaarden"

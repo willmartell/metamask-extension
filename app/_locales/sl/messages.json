@@ -21,10 +21,10 @@
     "message": "Žiadosť API Web3"
   },
   "reviewProviderRequest": {
-    "message": "Prečítajte si túto žiadosť rozhrania API web3."
+    "message": "Prečítajte si túto žiadosť rozhrania API Ethereum."
   },
   "providerRequestInfo": {
-    "message": "Doména uvedená nižšie sa pokúša požiadať o prístup k rozhraniu API web3, aby mohla komunikovať s blokom Ethereum. Pred schválením prístupu na web3 vždy skontrolujte, či ste na správnom mieste."
+    "message": "Doména uvedená nižšie sa pokúša požiadať o prístup k rozhraniu API Ethereum, aby mohla komunikovať s blokom Ethereum. Pred schválením prístupu na Ethereum vždy skontrolujte, či ste na správnom mieste."
   },
   "accept": {
     "message": "Sprejmi"

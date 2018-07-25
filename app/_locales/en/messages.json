@@ -18,10 +18,10 @@
     "message": "Reject"
   },
   "providerAPIRequest": {
-    "message": "Web3 API Request"
+    "message": "Ethereum API Request"
   },
   "reviewProviderRequest": {
-    "message": "Please review this web3 API request."
+    "message": "Please review this Ethereum API request."
   },
   "providerRequestInfo": {
     "message": "The domain listed below is requesting access to the Ethereum blockchain and to view your current account. Always double check that you're on the correct site before approving access."

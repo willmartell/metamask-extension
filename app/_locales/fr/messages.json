@@ -21,10 +21,10 @@
     "message": "Demande d'API Web3"
   },
   "reviewProviderRequest": {
-    "message": "Veuillez consulter cette demande d'API web3."
+    "message": "Veuillez consulter cette demande d'API Ethereum."
   },
   "providerRequestInfo": {
-    "message": "Le domaine répertorié ci-dessous tente de demander l'accès à l'API web3 pour pouvoir interagir avec la chaîne de blocs Ethereum. Vérifiez toujours que vous êtes sur le bon site avant d'autoriser l'accès à web3."
+    "message": "Le domaine répertorié ci-dessous tente de demander l'accès à l'API Ethereum pour pouvoir interagir avec la chaîne de blocs Ethereum. Vérifiez toujours que vous êtes sur le bon site avant d'autoriser l'accès à Ethereum."
   },
   "accept": {
     "message": "Accepter"
