@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import PageContainer from '../../page-container'
 import { Tabs, Tab } from '../../tabs'
+import BasicTabContent from './basic-tab-content'
 
 export default class GasModalPageContainer extends Component {
   static contextTypes = {
@@ -16,7 +17,7 @@ export default class GasModalPageContainer extends Component {
 
   renderBasicTabContent () {
     return (
-      <div className="gas-modal-content__basic-tab"/>
+      <BasicTabContent />
     )
   }
 
