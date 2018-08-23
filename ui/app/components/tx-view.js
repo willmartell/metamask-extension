@@ -25,7 +25,7 @@ TxView.contextTypes = {
 }
 
 function mapStateToProps (state) {
-  const sidebarOpen = state.appState.sidebarOpen
+  const sidebarOpen = state.appState.sidebar.isOpen
   const isMascara = state.appState.isMascara
 
   const identities = state.metamask.identities
@@ -50,7 +50,12 @@ function mapStateToProps (state) {
 
 function mapDispatchToProps (dispatch) {
   return {
-    showSidebar: () => { dispatch(actions.showSidebar()) },
+    showSidebar: () => {
+      dispatch(actions.showSidebar({
+        transitionName: 'sidebar-right',
+        type: 'wallet-view',
+      }))
+    },
     hideSidebar: () => { dispatch(actions.hideSidebar()) },
     showModal: (payload) => { dispatch(actions.showModal(payload)) },
     showSendPage: () => { dispatch(actions.showSendPage()) },

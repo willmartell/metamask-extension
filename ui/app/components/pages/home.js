@@ -172,7 +172,7 @@ function mapStateToProps (state) {
   const { appState, metamask } = state
   const {
     networkDropdownOpen,
-    sidebarOpen,
+    sidebar: { isOpen: sidebarOpen },
     isLoading,
     loadingMessage,
   } = appState
